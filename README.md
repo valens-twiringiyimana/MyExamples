@@ -1,4 +1,2 @@
 # MyExamples
-This my first repository. I am done for sure. Web Security Four Lab Assignment...I love you. What are you doing now. I am giving you this information to retrieve you because I love you.     
-
-This is my time I used to to learn Java script for education please.
+This repository aimed to learn java script where by I started from scrath. This help me to be successfully on what I am doing so that I can know more about Java script. THis is my purpose just to learn on how I can learn and deal with Java Script
