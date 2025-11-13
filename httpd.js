@@ -32,4 +32,5 @@ console.log(valens);
 
 valens.push("Grapes"); // adding an element to the end of the array
 valens.unshift("Bananas"); // adding an element to the beginning of the array
+valens.pop(); // removing the last element of the array
 console.log(valens);
