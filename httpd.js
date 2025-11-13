@@ -25,3 +25,5 @@ console.log('Data type is', typeof BigInt(9007199254741991)); // it will return 
 //===============================================================================================================================================
 let age1= prompt(`What is your age?`,100);
 console.log(`You are ${age1} years old!`);
+
+let valens=["Mangos", "Apples", "Lemons"];
