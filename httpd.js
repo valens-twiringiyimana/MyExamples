@@ -21,3 +21,7 @@ console.log('Data type is', typeof isAGirl); // it will return boolean as type o
 console.log('Data type is', typeof Math); // it will return string as type of string variable.
 console.log('Data type is', typeof Symbol("id")); // it will return symbol as type of Symbol("id").
 console.log('Data type is', typeof BigInt(9007199254741991)); // it will return bigint as type of BigInt(9007199254741991).
+
+//===============================================================================================================================================
+let age1= prompt(`What is your age?`,100);
+console.log(`You are ${age1} years old!`);
