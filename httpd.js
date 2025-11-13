@@ -13,3 +13,7 @@ if (isAGirl && age >=18) {
 } else {
     console.log("She is not eligible for scholarship.");
 }
+
+let Age=17;
+Age=undefined;  //reassigning Age variable to undefined this means Age variable has no value now. As it changes from integer to undefined.
+console.log(Age);
