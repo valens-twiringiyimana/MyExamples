@@ -23,7 +23,13 @@ console.log('Data type is', typeof Symbol("id")); // it will return symbol as ty
 console.log('Data type is', typeof BigInt(9007199254741991)); // it will return bigint as type of BigInt(9007199254741991).
 
 //===============================================================================================================================================
-let age1= prompt(`What is your age?`,100);
+//let age1= prompt(`What is your age?`,100); //this line will work in browser environment only not in node.js environment.
+let age1=25; // hardcoded value for demonstration
 console.log(`You are ${age1} years old!`);
 
 let valens=["Mangos", "Apples", "Lemons"];
+console.log(valens);
+
+valens.push("Grapes"); // adding an element to the end of the array
+valens.unshift("Bananas"); // adding an element to the beginning of the array
+console.log(valens);
