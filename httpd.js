@@ -13,7 +13,11 @@ if (isAGirl && age >=18) {
 } else {
     console.log("She is not eligible for scholarship.");
 }
-
 let Age=17;
 Age=undefined;  //reassigning Age variable to undefined this means Age variable has no value now. As it changes from integer to undefined.
 console.log(Age);
+console.log('Data type is', typeof Age); // it will return undefined as type of Age variable.
+console.log('Data type is', typeof isAGirl); // it will return boolean as type of isAGirl variable.
+console.log('Data type is', typeof Math); // it will return string as type of string variable.
+console.log('Data type is', typeof Symbol("id")); // it will return symbol as type of Symbol("id").
+console.log('Data type is', typeof BigInt(9007199254741991)); // it will return bigint as type of BigInt(9007199254741991).
