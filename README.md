@@ -13,4 +13,8 @@ Let me create java scripts guide
 
 # Internal java script
 Write script in the header of html
+<style>
+  alert("Pay attention"); // This runs when you open your browser.
+  console.log("How are you."); // You see it in console browser.
+</style>
 
