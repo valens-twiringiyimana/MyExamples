@@ -8,3 +8,8 @@ Exteranl
 Inline
 Let me create java scripts guide
 
+1. Create folder
+2.  Create html index.html
+3. 
+
+
