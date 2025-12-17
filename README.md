@@ -6,3 +6,5 @@ In Java scripts we have trhee tyes
 Internal
 Exteranl
 Inline
+Let me create java scripts guide
+
