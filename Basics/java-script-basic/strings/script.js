@@ -12,3 +12,7 @@ let strLength = fullName.length;
 console.log(fullName[10]);
 
 console.log("Length of Full Name: "+strLength);
+
+let concatenateString=firstName.concatenate(lastName);
+
+console.log(concatenateString);
