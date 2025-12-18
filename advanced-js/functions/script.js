@@ -58,7 +58,7 @@ alert(answer);*/
 };
 multiply(20,471);*/
 
-const multiply=function(a=1,b=2){
+const multiply=function(a=3, b=2){
   const results=a*b;
   console.log(results);
 };
