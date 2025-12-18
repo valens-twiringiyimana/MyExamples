@@ -15,3 +15,7 @@ let montlySavings=montlyIncome-totalExpenses;
 alert("Your montly savings are: $"+montlySavings);
 console.log("Total Expenses: $"+totalExpenses);
 
+
+let percentageSavings=(montlySavings/montlyIncome)*100;
+alert("You save "+percentageSavings.toFixed(2)+"% of your income each month.");
+
