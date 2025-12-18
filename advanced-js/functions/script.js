@@ -24,10 +24,47 @@
     alert(ans);*/
 
 //Expression function
-const addNumbers=(a,b)=>{
+/*const addNumbers=(a,b)=>{
   let result=a+b;
   return result;
+};*/
+
+/*const addNumbers=(a,b)=>a+b;
+let answer=addNumbers(435453,3631467);
+alert(answer);*/
+
+//Anonymous function
+//Function Declaration without argument
+/*(function(){
+  console.log("Hello My Dear");
+
+})();*/
+
+/*(function(a,b){
+  let result=a+b;
+  console.log(result);
+})(781 , 659);*/
+
+/*((a,b)=>{
+
+  let result=a+b;
+  console.log(result);
+})(435 , 6453);*/
+
+//default multiplication
+/*const multiply=function(a,b){
+  const result=a*b;
+  console.log(result);
 };
-let answer=addNumbers(4353,3636);
-alert(answer);
+multiply(20,471);*/
+
+const multiply=function(a=1,b=2){
+  const results=a*b;
+  console.log(results);
+};
+multiply(20);
+
+
+
+
 
