@@ -19,3 +19,12 @@ console.log("Total Expenses: $"+totalExpenses);
 let percentageSavings=(montlySavings/montlyIncome)*100;
 alert("You save "+percentageSavings.toFixed(2)+"% of your income each month.");
 
+let numberOfApples=45;
+let numberOfBananas=30;
+
+let isEqual=numberOfApples===numberOfBananas;
+
+
+console.log("Are the number of apples and bananas equal? "+isEqual);
+
+
