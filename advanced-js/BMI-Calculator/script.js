@@ -1,0 +1,3 @@
+const calculatorBMI=(weight,height)=>{
+  
+}
